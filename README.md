@@ -3,6 +3,6 @@ Rossman Store Sales data has historical sales data for 1115 Rossmann stores. The
 1.EXPLORATORY DATA ANALYSIS\
 2.DATA VISUALIZATION\
 3.SARIMA(Seasonal Autoregressive Integrated Moving-Average)\
-4. Machine Learning\
+4.MACHINE LEARNING\
    LightGBM Model\
-   Prophet\
+   Prophet
