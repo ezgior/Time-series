@@ -7,5 +7,5 @@ Data has historical sales data for 1115 Rossmann stores. The task is to forecast
 4.MACHINE LEARNING\
    LightGBM Model\
    Prophet\
-# Airline Passengera Forecast\
+# Airline Passengera Forecast
 In this file, airline passengers data is analyzed and using statsmodel ARIMA,SARIMA models is applied for forecasting.
